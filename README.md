@@ -1,12 +1,12 @@
 ## JSramverk-Backend
 
-### Install and run backend
-1.Download or Clone the repository
-2.npm install
-3.npm install -g nodemon
-4.npm start
+### Install and run backend   
+1.Download or Clone the repository   
+2.npm install   
+3.npm install -g nodemon   
+4.npm start   
 
-###Routes
+### Routes
 | Route | Method | Result |
 | :------ | :----: | ----------------------------------: |
 | / | GET | Return welcome message |
